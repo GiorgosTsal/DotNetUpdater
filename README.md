@@ -1,5 +1,5 @@
 
-# SharpUpdate
+# CSharpUpdate
 SharpUpdate is written in C#. It reads a xml file on the server that contains update information such as version, MD5, and update log, download the update, close the current app, and open the updated app in 5 seconds.
 
 # How to use?
@@ -61,4 +61,4 @@ For details on the xml on the server with update information, please check out t
 ```
 
 # Acknowledgments
-SharpUpdate is a modified copy from AutoUpdater by BetterCoder on Youtube. His tutorial can be found here: http://goo.gl/n7btY
+SharpUpdate is a modified copy from AutoUpdater by BetterCoder on Youtube. His tutorial can be found here: https://www.youtube.com/playlist?list=PL3iOx6lykrwqc_KuJWIU3yAyTP2C7h_xE
