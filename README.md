@@ -2,6 +2,9 @@
 # CSharpUpdate
 SharpUpdate is written in C#. It reads a xml file on the server that contains update information such as version, MD5, and update log, download the update, close the current app, and open the updated app in 5 seconds.
 
+## NOTE :
+  Works only with executable files and NOT with whole setups.
+
 # How to use?
 
 ### WinForms
